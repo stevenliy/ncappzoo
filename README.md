@@ -12,6 +12,6 @@
         # make
         # python3 run.py
         
-        ![Alt text](guitar_result.png?raw=true "guitar_result")
+   ![Alt text](guitar_result.png?raw=true "guitar_result")
 
 
