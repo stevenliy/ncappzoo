@@ -1,5 +1,6 @@
 # This is the NCSDK2 branch
-    Added caffe/GoogLeNet_BN project. The GoogleNet_BN model file is from https://github.com/lim0606/caffe-googlenet-bn
+    Added caffe/GoogLeNet_BN project. 
+    The GoogleNet_BN model file is from https://github.com/lim0606/caffe-googlenet-bn
     
     Test steps:
         # wget -c http://image-net.org/image/ILSVRC2015/ILSVRC2015_devkit.tar.gz
