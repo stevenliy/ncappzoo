@@ -11,5 +11,7 @@
            Go to line 3102, change "layers" => "layer"
         # make
         # python3 run.py
+        
+        ![Alt text](guitar_result.png?raw=true "guitar_result")
 
 
