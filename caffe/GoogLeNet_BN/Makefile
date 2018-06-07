@@ -12,7 +12,7 @@ PROTOTXT_FILENAME= deploy.prototxt
 GET_PROTOTXT = wget -P . https://raw.githubusercontent.com/lim0606/caffe-googlenet-bn/master/deploy.prototxt
 
 CAFFEMODEL_FILENAME = googlenet_bn_stepsize_6400_iter_1200000.caffemodel
-GET_CAFFEMODEL = wget -P . -N https://github.com/lim0606/caffe-googlenet-bn/blob/master/snapshots/${CAFFEMODEL_FILENAME}
+GET_CAFFEMODEL = wget -P . -N https://github.com/lim0606/caffe-googlenet-bn/blob/master/snapshots/googlenet_bn_stepsize_6400_iter_1200000.caffemodel?raw=true
 
 
 .PHONY: all
