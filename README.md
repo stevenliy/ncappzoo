@@ -14,5 +14,7 @@
         # python3 run.py
         
    ![Alt text](guitar_result.png?raw=true "guitar_result")
+   
+   Also added caffe/resnet-101 and caffe/resnet-50 projects, for more detail, see the ReadME in resnet-101/resnet-50 folders
 
 
