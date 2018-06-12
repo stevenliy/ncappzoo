@@ -3,6 +3,7 @@
     The GoogleNet_BN model file is from https://github.com/lim0606/caffe-googlenet-bn
     
     Test steps:
+        # cd caffe/GoogLeNet_BN
         # wget -c http://image-net.org/image/ILSVRC2015/ILSVRC2015_devkit.tar.gz
         # tar zxvf ILSVRC2015_devkit.tar.gz
         # wget -P . https://raw.githubusercontent.com/lim0606/caffe-googlenet-bn/master/deploy.prototxt
