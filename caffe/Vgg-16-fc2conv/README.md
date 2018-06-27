@@ -1,5 +1,5 @@
-For FC-CONV conversion theory, please refer the below cs231n class page:
-  http://cs231n.github.io/convolutional-networks/#convert
+For FC-CONV conversion theory, please refer to this cs231n class page
+http://cs231n.github.io/convolutional-networks/#convert
 
 
 	# wget -c https://raw.githubusercontent.com/davidgengenbach/vgg-caffe/master/model/VGG_ILSVRC_16_layers_deploy.prototxt
