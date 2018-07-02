@@ -23,5 +23,4 @@ http://cs231n.github.io/convolutional-networks/#convert
 	# mvNCProfile VGG_ILSVRC_16_layers_deploy_fc2conv.prototxt -s 16
 	# mvNCCompile -w VGG_ILSVRC_16_layers_fc2conv.caffemodel -o graph -s 16 VGG_ILSVRC_16_layers_deploy_fc2conv.prototxt
 	# mvNCCheck -i ../../data/images/nps_electric_guitar.png -metric accuracy_metrics -w VGG_ILSVRC_16_layers_fc2conv.caffemodel VGG_ILSVRC_16_layers_deploy_fc2conv.prototxt -S 255 -M 110 -metric top1 -s 16
-	# mvNCCheck -i ../../data/images/nps_electric_guitar.png -metric accuracy_metrics -w VGG_ILSVRC_16_layers_fc2conv.caffemodel VGG_ILSVRC_16_layers_deploy_fc2conv.prototxt -S 255 -M 110 -metric top1 --ma2480
 	# python3 run.py
